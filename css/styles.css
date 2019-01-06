@@ -65,7 +65,7 @@ body {
   height: 3.54286vw;
 }
 
-/*.tile .front,
+.tile .front,
 .tile .back,
 .tile .left,
 .tile .right {
@@ -74,9 +74,10 @@ body {
   width: 3.54286vw;
   height: 0.6vw;
   -webkit-transform-origin: 50% 0 0;
-          transform-origin: 50% 0 0;
+  transform-origin: 50% 0 0;
 }
-.tile .front {
+
+/*.tile .front {
   background-color: #70b3c2;
   -webkit-transform: rotateX(-90deg) rotateY(0deg) translateZ(1.77143vw);
           transform: rotateX(-90deg) rotateY(0deg) translateZ(1.77143vw);
