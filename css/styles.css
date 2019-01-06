@@ -25,11 +25,11 @@ body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-@media (max-width: 750px) {
+/*@media (max-width: 750px) {
   body {
     background-size: 2000px 100%;
   }
