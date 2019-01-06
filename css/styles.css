@@ -59,12 +59,13 @@ body {
   animation: 3s ease-in-out infinite alternate tile-sway;
 }
 
-/*.tile .top {
+.tile .top {
   background-color: #c6e0e6;
   width: 3.54286vw;
   height: 3.54286vw;
 }
-.tile .front,
+
+/*.tile .front,
 .tile .back,
 .tile .left,
 .tile .right {
