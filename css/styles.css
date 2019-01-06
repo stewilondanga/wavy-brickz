@@ -346,14 +346,14 @@ body {
   animation-delay: 1.06066s;
 }
 
-/*@-webkit-keyframes tile-sway {
+@-webkit-keyframes tile-sway {
   100% {
     -webkit-transform: translateZ(24vh);
-            transform: translateZ(24vh);
+    transform: translateZ(24vh);
   }
 }
 
-@keyframes tile-sway {
+/*@keyframes tile-sway {
   100% {
     -webkit-transform: translateZ(24vh);
             transform: translateZ(24vh);
