@@ -77,12 +77,13 @@ body {
   transform-origin: 50% 0 0;
 }
 
-/*.tile .front {
+.tile .front {
   background-color: #70b3c2;
   -webkit-transform: rotateX(-90deg) rotateY(0deg) translateZ(1.77143vw);
-          transform: rotateX(-90deg) rotateY(0deg) translateZ(1.77143vw);
+  transform: rotateX(-90deg) rotateY(0deg) translateZ(1.77143vw);
 }
-.tile .back {
+
+/*.tile .back {
   background-color: #70b3c2;
   -webkit-transform: rotateX(-90deg) rotateY(180deg) translateZ(1.77143vw);
           transform: rotateX(-90deg) rotateY(180deg) translateZ(1.77143vw);
