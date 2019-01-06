@@ -89,12 +89,13 @@ body {
   transform: rotateX(-90deg) rotateY(180deg) translateZ(1.77143vw);
 }
 
-/*.tile .left {
+.tile .left {
   background-color: #94c6d1;
   -webkit-transform: rotateX(-90deg) rotateY(90deg) translateZ(1.77143vw);
-          transform: rotateX(-90deg) rotateY(90deg) translateZ(1.77143vw);
+  transform: rotateX(-90deg) rotateY(90deg) translateZ(1.77143vw);
 }
-.tile .right {
+
+/*.tile .right {
   background-color: #94c6d1;
   -webkit-transform: rotateX(-90deg) rotateY(270deg) translateZ(1.77143vw);
           transform: rotateX(-90deg) rotateY(270deg) translateZ(1.77143vw);
