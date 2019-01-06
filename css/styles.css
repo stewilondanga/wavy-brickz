@@ -316,12 +316,12 @@ body {
   animation-delay: 1.06066s;
 }
 
-/*.tile:nth-child(44) {
+.tile:nth-child(44) {
   -webkit-animation-delay: 0.90139s;
-          animation-delay: 0.90139s;
+  animation-delay: 0.90139s;
 }
 
-.tile:nth-child(45) {
+/*.tile:nth-child(45) {
   -webkit-animation-delay: 0.79057s;
           animation-delay: 0.79057s;
 }
