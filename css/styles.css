@@ -50,15 +50,16 @@ body {
   animation: 30s linear infinite spin;
 }
 
-/*.tile {
+.tile {
   -webkit-transform: translateZ(-8vh);
-          transform: translateZ(-8vh);
+  transform: translateZ(-8vh);
   -webkit-transform-style: preserve-3d;
-          transform-style: preserve-3d;
+  transform-style: preserve-3d;
   -webkit-animation: 3s ease-in-out infinite alternate tile-sway;
-          animation: 3s ease-in-out infinite alternate tile-sway;
+  animation: 3s ease-in-out infinite alternate tile-sway;
 }
-.tile .top {
+
+/*.tile .top {
   background-color: #c6e0e6;
   width: 3.54286vw;
   height: 3.54286vw;
