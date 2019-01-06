@@ -29,13 +29,13 @@ body {
   height: 1.5em;
 }
 
-/*@media (max-width: 750px) {
+@media (max-width: 750px) {
   body {
     background-size: 2000px 100%;
   }
 }
 
-.container {
+/*.container {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
   grid-gap: 1.2vw;
