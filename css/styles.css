@@ -101,12 +101,12 @@ body {
   transform: rotateX(-90deg) rotateY(270deg) translateZ(1.77143vw);
 }
 
-/*.tile:nth-child(1) {
+.tile:nth-child(1) {
   -webkit-animation-delay: 1.06066s;
-          animation-delay: 1.06066s;
+  animation-delay: 1.06066s;
 }
 
-.tile:nth-child(2) {
+/*.tile:nth-child(2) {
   -webkit-animation-delay: 0.90139s;
           animation-delay: 0.90139s;
 }
