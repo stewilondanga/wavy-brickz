@@ -372,18 +372,19 @@ body {
   }
 }
 
-/*@keyframes spin {
+@keyframes spin {
   0% {
     -webkit-transform: translate3d(-50%, -50%, 0) rotateX(-90deg) rotateZ(0deg) scaleZ(-1);
-            transform: translate3d(-50%, -50%, 0) rotateX(-90deg) rotateZ(0deg) scaleZ(-1);
+    transform: translate3d(-50%, -50%, 0) rotateX(-90deg) rotateZ(0deg) scaleZ(-1);
   }
+
   100% {
     -webkit-transform: translate3d(-50%, -50%, 0) rotateX(-90deg) rotateZ(360deg) scaleZ(-1);
-            transform: translate3d(-50%, -50%, 0) rotateX(-90deg) rotateZ(360deg) scaleZ(-1);
+    transform: translate3d(-50%, -50%, 0) rotateX(-90deg) rotateZ(360deg) scaleZ(-1);
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
