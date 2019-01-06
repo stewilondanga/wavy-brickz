@@ -35,7 +35,7 @@ body {
   }
 }
 
-/*.container {
+.container {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
   grid-gap: 1.2vw;
@@ -45,12 +45,12 @@ body {
   top: 50vh;
   left: 50vw;
   -webkit-transform-style: preserve-3d;
-          transform-style: preserve-3d;
+  transform-style: preserve-3d;
   -webkit-animation: 30s linear infinite spin;
-          animation: 30s linear infinite spin;
+  animation: 30s linear infinite spin;
 }
 
-.tile {
+/*.tile {
   -webkit-transform: translateZ(-8vh);
           transform: translateZ(-8vh);
   -webkit-transform-style: preserve-3d;
