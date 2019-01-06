@@ -353,13 +353,14 @@ body {
   }
 }
 
-/*@keyframes tile-sway {
+@keyframes tile-sway {
   100% {
     -webkit-transform: translateZ(24vh);
-            transform: translateZ(24vh);
+    transform: translateZ(24vh);
   }
 }
-@-webkit-keyframes spin {
+
+/*@-webkit-keyframes spin {
   0% {
     -webkit-transform: translate3d(-50%, -50%, 0) rotateX(-90deg) rotateZ(0deg) scaleZ(-1);
             transform: translate3d(-50%, -50%, 0) rotateX(-90deg) rotateZ(0deg) scaleZ(-1);
